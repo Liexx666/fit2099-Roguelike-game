@@ -4,3 +4,9 @@ out
 .DS_Store
 docs/javadoc/
 target
+
+# Local environment secrets
+.env
+.env.*
+!.env.example
+!.env.sample
